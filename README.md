@@ -21,6 +21,6 @@ This project demonstrates how to use **threads** and **channels** in Rust to sim
 - Adjustable number of threads and batch sizes
 
 
-![screen03](https://github.com/user-attachments/assets/3b4ade4c-2021-433a-9133-0769f6762af9)
+![screen04](https://github.com/user-attachments/assets/7f6ff513-ce3a-4652-92e4-5f693087825d)
 
   
