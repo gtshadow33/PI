@@ -122,3 +122,9 @@ fn main() -> GameResult {
     let state = State::new(rx);
     event::run(ctx, event_loop, state)
 }
+fn inside(x: f32, y: f32) ->bool{
+    if x*x + y*y <=1{
+        true;
+    }else{
+        false;
+    }
